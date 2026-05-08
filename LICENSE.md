@@ -1,4 +1,4 @@
-
+Enhance Little Snitch for macOS with Little Snitch for macOS advanced Tool: real-time-protection & cross-device-sync, the #1 tool. Includes real-time-protection and
 
 
 
